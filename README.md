@@ -33,11 +33,18 @@ To run this project locally:
    ```
    Or simply double-click the file in your file explorer.
 
+   To view the website anywhere:
+
+   https://jayantranjanjha.github.io/VedioStreamingWebsiteProject/
+
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/60ae1278-00f3-42c0-9420-9a36408aa9d5)
 
 ![image](https://github.com/user-attachments/assets/a575ef81-54dd-4c16-934e-13ae0b9e6e32)
+
+![image](https://github.com/user-attachments/assets/8b5bd95e-47f4-47ae-a581-804fa9ce9616)
+
 
 
 
